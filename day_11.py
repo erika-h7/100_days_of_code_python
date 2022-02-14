@@ -144,11 +144,6 @@ while input("Do you want to play a game of BlackJack? Type 'y' or 'n': ") == "y"
     
 
 
-
-
-
-
-
 # def blackjack():
 #     play = input("Do you want to play a game of BlackJack? type 'y' or 'n' 👉 ").lower()
 #     getdeck()
